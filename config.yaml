@@ -1,0 +1,6 @@
+BINANCE_WS_URL: "wss://fstream.binance.com/ws"
+STREAM_NAME: "btcusdt@bookTicker"
+NUM_CONNECTIONS: 5
+COLLECTION_TIME: 60
+QUEUE_MAX_SIZE: 10000
+
